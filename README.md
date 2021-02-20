@@ -40,13 +40,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <ul>
-      </ul>
-    </li>
-    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#run">Prerequisites</a></li>
+        <li><a href="#run">Run</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
